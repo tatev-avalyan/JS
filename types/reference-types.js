@@ -1,0 +1,2 @@
+const obj = {}
+const arr = []
