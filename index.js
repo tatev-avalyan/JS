@@ -1,0 +1,5 @@
+// import './types/index'
+// import './functions/index'
+// import './objects/index'
+// import './constructors/index'
+import './inherit/index'
